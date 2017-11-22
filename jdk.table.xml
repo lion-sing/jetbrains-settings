@@ -1,0 +1,122 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.0 (D:\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="D:\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Anaconda3/DLLs" />
+            <root type="simple" url="file://D:/Anaconda3/Lib" />
+            <root type="simple" url="file://D:/Anaconda3" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/Sphinx-1.5.1-py3.6.egg" />
+            <root type="simple" url="file://C:/Wind/Wind.NET.Client/WindNET/x64" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/DataAPI-0.8.2-py3.6.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/AlgoTrading-0.2.2-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/visualportfolio-0.2.5-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/sphinxcontrib_bibtex-0.3.5-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/pandas_datareader-0.3.0.post0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/statsmodels-0.8.0-py3.6-win-amd64.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/oset-0.1.3-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/pybtex_docutils-0.2.1-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/pybtex-0.21-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/latexcodec-1.0.4-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/requests_ftp-0.3.1-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/requests_file-1.4.1-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/DataProvider-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/ProfolioManagement-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/FactorMonitor-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/data_store-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/Strategy_Backtest-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/portfolio_analytic-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/web_master-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/Utils_Tool-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/fm_client-0.1.0-py3.6.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/simpleutils-0.1.0-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/EventMonitor-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/PFMonitor-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/zerorpc-0.6.1-py3.6.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/wget-3.2-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/msgpack_python-0.4.8-py3.6-win-amd64.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/DBUpdate-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/sqlalchemy-1.2.0b1-py3.6-win-amd64.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/numba-0.34.0-py3.6-win-amd64.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/Alpha_Mind-0.1.0-py3.6-win-amd64.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/Finance_Python-0.5.8-py3.6-win-amd64.egg" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/AlphaDesign-0.1.1-py3.6.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/Lib/site-packages/polyaxon-0.0.3-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Anaconda3/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-2036615904" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (D:\Anaconda3\envs\flask-env\pythonw.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Anaconda3\envs\flask-env\pythonw.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/DLLs" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/Sphinx-1.5.6-py3.6.egg" />
+            <root type="simple" url="file://C:/Wind/Wind.NET.Client/WindNET/x64" />
+            <root type="simple" url="jar://D:/Anaconda3/envs/flask-env/Lib/site-packages/simpleutils-0.1.0-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/DataProvider-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/FactorMonitor-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/Alpha_Mind-0.1.0-py3.6-win-amd64.egg" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/zerorpc-0.6.1-py3.6.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/envs/flask-env/Lib/site-packages/wget-3.2-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/future-0.16.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/PFMonitor-0.1.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/reportlab-3.4.0-py3.6-win-amd64.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/envs/flask-env/Lib/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/arrow-0.10.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/Finance_Python-0.5.8-py3.6-win-amd64.egg" />
+            <root type="simple" url="jar://D:/Anaconda3/envs/flask-env/Lib/site-packages/AlphaDesign-0.1.0-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Anaconda3/envs/flask-env/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1611832390" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
