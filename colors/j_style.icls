@@ -1,0 +1,108 @@
+<scheme name="j_style" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-05-27T22:47:24</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.1.2.0.0</property>
+    <property name="modified">2018-09-14T10:17:34</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="58ff34" />
+    <option name="DELETED_LINES_COLOR" value="d87b72" />
+    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
+    <option name="MODIFIED_LINES_COLOR" value="2e87ff" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="b5b3bc" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="60c23b" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="60c23b" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="45ffe9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="1eb529" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="efbe5b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="fcfffa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="63a8ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ffde22" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f091e9" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="f200f2" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f091e9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="60c23b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="60c23b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="e5e3ec" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffde22" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffde22" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
