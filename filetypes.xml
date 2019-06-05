@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="config_1_portfolio.yaml" type="PLAIN_TEXT" />
       <mapping ext="txt\" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="tsconfig" />
       <removed_mapping ext="conf" approved="true" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
